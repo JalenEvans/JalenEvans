@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jalenemmanuelevans@gmail.com**
 
-- ⚡ Fun fact **I have a twin!**
+- ⚡ Fun fact **[I have a twin!](https://github.com/RynEEvans)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
