@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jalen</h1>
 <h3 align="center">A passionate Computer Science student from Charleston, SC</h3>
 
-- 🔭 I’m currently working on **Wins Per Minute**
+- 📚 I attend the **[College of Charleston](https://charleston.edu/)**
+
+- 🔭 I’m currently working on **[Wins Per Minute](https://github.com/JalenEvans/Wins-Per-Minute) and [CIRDLES Tripoli](https://github.com/CIRDLES/Tripoli)** 
 
 - 🌱 I’m currently learning **React, Flutter, and SQL**
 
