@@ -3,7 +3,7 @@
 
 - 📚 I attend the **[College of Charleston](https://charleston.edu/)**
 
-- 🔭 I’m currently working on **[a Medgemma AI Chat App](https://github.com/JalenEvans/Medgemma-Sample_Project) and [CIRDLES Tripoli](https://github.com/CIRDLES/Tripoli)** 
+- 🔭 I’m currently working on **[a Medgemma AI Chat App](https://github.com/JalenEvans/Medgemma-Sample-Project) and [CIRDLES Tripoli](https://github.com/CIRDLES/Tripoli)** 
 
 - 🌱 I’m currently learning **React, Flutter, and PostgresSQL**
 
