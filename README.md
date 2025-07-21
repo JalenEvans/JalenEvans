@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[Wins Per Minute](https://github.com/JalenEvans/Wins-Per-Minute) and [CIRDLES Tripoli](https://github.com/CIRDLES/Tripoli)** 
 
-- 🌱 I’m currently learning **React, Flutter, and SQL**
+- 🌱 I’m currently learning **React, Flutter, and PostgresSQL**
 
 - 📫 How to reach me **jalenemmanuelevans@gmail.com**
 
