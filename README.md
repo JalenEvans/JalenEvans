@@ -3,7 +3,7 @@
 
 - 📚 I attend the **[College of Charleston](https://charleston.edu/)**
 
-- 🔭 I’m currently working on **[Whisperr](https://github.com/JalenEvans/Whisperr) and [CIRDLES Tripoli](https://github.com/CIRDLES/Tripoli)** 
+- 🔭 I’m currently working on **[][CIRDLES Tripoli](https://github.com/CIRDLES/Tripoli)** 
 
 - 🌱 I’m currently learning **React, Flutter, and PostgresSQL**
 
